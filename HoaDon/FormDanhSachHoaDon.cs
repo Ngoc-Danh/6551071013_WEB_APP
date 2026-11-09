@@ -13,7 +13,7 @@ namespace HotelManagement.HoaDon
 {
     public partial class FormDanhSachHoaDon : Form
     {
-        private readonly CultureInfo viVN = new CultureInfo("vi -VN");
+        private readonly CultureInfo viVN = new CultureInfo("vi-VN");
         public FormDanhSachHoaDon()
         {
             InitializeComponent();
